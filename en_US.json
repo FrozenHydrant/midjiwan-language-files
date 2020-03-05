@@ -317,6 +317,7 @@
   "unit.abilities.autofreeze": "AUTO FREEZE",
   "unit.abilities.skate": "SKATE",
   "unit.abilities.fortify": "FORTIFY",
+  "unit.abilities.crush": "CRUSH",
 
   "player.abilities.destroy": "destroy",
   "player.abilities.disband": "disband",
