@@ -1,4 +1,4 @@
-{
+﻿{
   "language": "English",
   "startmenu.new_game": "NEW GAME",
   "startmenu.multiplayer": "MULTIPLAYER",
@@ -317,7 +317,6 @@
   "unit.abilities.autofreeze": "AUTO FREEZE",
   "unit.abilities.skate": "SKATE",
   "unit.abilities.fortify": "FORTIFY",
-  "unit.abilities.crush": "CRUSH",
 
   "player.abilities.destroy": "destroy",
   "player.abilities.disband": "disband",
@@ -416,7 +415,6 @@
   "tooltip.ability.freeze_auto": "This unit freezes any surrounding tiles and units when moving.",
   "tooltip.ability.skate": "This unit gets double movement on ice tiles but on land their movement is limited to 1 tile and all other abilities are disabled.",
   "tooltip.ability.fortify": "This unit gets a defence bonus when defending in its own cities, double bonus with a city wall.",
-  "tooltip.ability.crush": "This unit can destroy units and buildings which it steps on.",
 
   "buttons.ok": "OK",
   "buttons.exit": "EXIT",
