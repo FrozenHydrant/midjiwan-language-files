@@ -1,4 +1,4 @@
-{
+[{
   "language": "English",
   "startmenu.new_game": "NEW GAME",
   "startmenu.multiplayer": "MULTIPLAYER",
@@ -975,4 +975,4 @@
   "friendlist.friendshipstate.sentrequest": "Friend request sent. Waiting for response.",
   "friendlist.friendshipstate.receivedrequest": "Friend request received. Do you accept?",
   "friendlist.friendshipstate.rejected": "Friend request rejected."
-}
+}]
