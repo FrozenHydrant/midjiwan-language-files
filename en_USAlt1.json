@@ -2,7 +2,7 @@
   "language": "English",
   "startmenu.new_game": "NEW GAME",
   "startmenu.multiplayer": "MULTIPLAYER",
-  "startmenu.resume_game": "RESUME GAME",
+  "startmenu.resume_game": "CONTINUE GAME",
   "startmenu.settings": "Settings",
   "startmenu.high_score": "High Score",
   "startmenu.throne_room": "Throne Room",
@@ -324,7 +324,7 @@
   "player.abilities.glide": "glide",
 
   "resource.names.fruit": "berries",
-  "resource.names.crop": "crop",
+  "resource.names.crop": "fertile land",
   "resource.names.fish": "fish",
   "resource.names.whale": "whale",
   "resource.names.game": "wild animal",
